@@ -5,4 +5,5 @@ st.write("Rocky Balboa")
 from PIL import Image
 
 # Exibir a imagem
-st.image(rock.jpg, caption='a perseverança nao morre',)
+st.image('rock.jpg', caption='a perseverança nao morre',)
+
