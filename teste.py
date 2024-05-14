@@ -8,7 +8,7 @@ from PIL import Image
 st.title('Exemplo de Carregamento de Imagem')
 
 # Carregar a imagem
-image = Image.open('example_image.jpg')
+image = Image.open('https://github.com/JoaoCasote/webapp00/blob/main/sylvester-stallone-rocky-balboa-foto-divulgacao.jpg')
 
 # Exibir a imagem
 st.image(image, caption='Imagem de exemplo', use_column_width=True)
