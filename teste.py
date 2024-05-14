@@ -5,4 +5,4 @@ st.write("Rocky Balboa")
 from PIL import Image
 
 # Exibir a imagem
-st.image(image, caption='a perseverança nao morre', use_column_width=True)
+st.image(sylvester-stallone-rocky-balboa-foto-divulgacao.jpg, caption='a perseverança nao morre', use_column_width=True)
